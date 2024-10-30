@@ -1,0 +1,15 @@
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         bootstrap="/Users/stevep/Documents/overseas/isv/wordpress/wordpress.org/interserve-data-feed/trunk/test/bootstrap.php"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         strict="true"
+         verbose="false">
+  <!-- ... -->
+</phpunit>
